@@ -19,11 +19,16 @@ By integrating computational methods, we reduce the **time** and **cost** spent 
 
 ![Landing Page](https://github.com/Toshhhi/AceHacks_DataPrepRepo/blob/main/SOTA.png?raw=true)
 
+![Landing Page](https://github.com/Toshhhi/AceHacks_DataPrepRepo/blob/main/SOTA_results.png?raw=true)
+
 
 ## 💰 Pricing Plans
 We offer three pricing plans:
 - **Free** for students 👩‍🎓
 - Paid plans with additional features for researchers and professionals.
+
+![Landing Page](https://github.com/Toshhhi/AceHacks_DataPrepRepo/blob/main/pricing.png?raw=true)
+
 
 ## 📦 Installation & Usage
 ### Prerequisites
