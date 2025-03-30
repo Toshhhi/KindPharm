@@ -17,7 +17,7 @@ By integrating computational methods, we reduce the **time** and **cost** spent 
 
 ![Landing Page](https://github.com/Toshhhi/AceHacks_DataPrepRepo/blob/main/LandingPage.png?raw=true)
 
-![Landing Page](https://github.com/Toshhhi/AceHacks_DataPrepRepo/blob/main/SOTA.png/LandingPage.png?raw=true)
+![Landing Page](https://github.com/Toshhhi/AceHacks_DataPrepRepo/blob/main/LandingPage.png?raw=true)
 
 
 ## 💰 Pricing Plans
