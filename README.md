@@ -15,6 +15,8 @@ By integrating computational methods, we reduce the **time** and **cost** spent 
 - **Downloadable Reports**: Save and share results with your team.
 - **Patent Filing Requests**: Initiate patent filing directly from the platform.
 
+![Landing Page](https://github.com/Toshhhi/AceHacks_DataPrepRepo/blob/main/LandingPage.png?raw=true)
+
 ## 💰 Pricing Plans
 We offer three pricing plans:
 - **Free** for students 👩‍🎓
