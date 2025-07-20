@@ -1,4 +1,4 @@
-# KindPharm: AceHacks_DataPrepRepo
+# KindPharm:
 
 
 # Computer-Aided Drug Design (CADD) Platform
